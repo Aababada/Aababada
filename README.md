@@ -2,7 +2,6 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python and would love to start learning java
 - 💞️ I’m looking to collaborate with someone who can guide me in learning java
-- 📫 How to reach me instagram id: @the_falling_guy
 
 <!---
 Aababada/Aababada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
